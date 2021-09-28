@@ -1,16 +1,9 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Our Profile
   about_item :
+
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : PT. Arimbi Putrijaya
+    content : Perusahaan Swasta Nasional berbadan hukum, semenjak tahun 1993 telah ikut berperan di Bidang Usaha Jasa Pelaksanaan Konstruksi (Kontraktor). Dengan kapabilitas, pengalaman Perusahaan, didukung oleh Tenaga Ahli dari berbagai Disiplin Ilmu dan dengan penerapan Sistem Manajemen Mutu serta kepercayaan dari para pemberi pekerjaan, telah menjadi modal utama Perusahaan dalam menghasilkan produk pekerjaan yang tepat guna, tepat waktu dan tepat kwalitas, sehingga di dalam perkembangannya telah banyak mendapat kepercayaan untuk mengerjakan berbagai proyek.

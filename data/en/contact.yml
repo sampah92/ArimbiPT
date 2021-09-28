@@ -3,21 +3,21 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : For more detailed information
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Jl. Raya Serang Cibarusah KM 3 No. 8 Kp Pasir Randu, Serang Baru, Bekasi, Jawa Barat"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+      info : "Phone: (021) 5890 9746"
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+      info : "Fax: (021) 5890 9748"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: arimbi_putrijaya@yahoo.com"
 
 
   # Contact form

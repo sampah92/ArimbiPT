@@ -1,27 +1,27 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  image : images/about/amp2.png
+  image_webp : images/about/amp2.webp
+  title : Product and Services.
+  content : "Here is a product description for our company"
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Asphalt Mixing Plant (AMP)
+      icon : ti-filter # themify icon pack : https://themify.me/themify-icons
+      content : The asphalt plant is mainly composed of cold aggregate supply system, drum dryer, coal burner, coal feeder, dust collector, hot aggregate elevator, vibrating screen, filler supply system, weighing and mixing system, asphalt storage, bitumen supply system.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Asphalt Pavement
+      icon : ti-map # themify icon pack : https://themify.me/themify-icons
+      content : Composite material commonly used to surface roads, parking lots, airports, and the core of embankment dams.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Bridge Construction
+      icon : ti-layout-grid2-thumb # themify icon pack : https://themify.me/themify-icons
+      content : Bridge construction is required as it has huge impact on life of people. Social, scientific and technological dimensions for bridge construction must be considered.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Bridge Rehabilitation
+      icon : ti-layout-sidebar-left # themify icon pack : https://themify.me/themify-icons
+      content : Bridge rehabilitation has also become a very essential factor (sometimes even a decisive one) in contemporary bridge engineering.

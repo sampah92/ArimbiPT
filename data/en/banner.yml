@@ -1,12 +1,12 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image_webp : "images/backgrounds/BG.webp"
   bg_image : "images/backgrounds/BG.jpeg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "PT. Arimbi Putrijaya"
-  content : "Berpengalaman Mengerjakan Proyek Nasional"
+  content : "Berupaya untuk melakukan berbagai terobosan inovatif yang dapat melebihi harapan dan bayangan para pengguna jasa."
   button:
     enable : true
     label : "Selengkapnya"
-    link : "#services"
+    link : "#about"
