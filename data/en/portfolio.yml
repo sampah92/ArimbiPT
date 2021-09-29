@@ -1,76 +1,65 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Gallery
   portfolio_item :
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
-      
-    # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
-      
-    # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+          # portfolio item loop
+    - name : SARKAPJA JORR 
+      image : images/backgrounds/SARKAPJAJORR.png
+      image_webp : images/backgrounds/sarkapjajorr.webp
+      #categories : ["Saluran", "Longsoran"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
-    # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      # portfolio item loop
+    - name : SARKAPJA JORR 
+      image : images/backgrounds/SARKAPJAJORR2.png
+      image_webp : images/backgrounds/sarkapjajorr2.webp
+      #categories : ["Saluran", "Longsoran"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      # portfolio item loop
+    - name : SARKAPJA JORR 
+      image : images/backgrounds/SARKAPJAJORR3.png
+      image_webp : images/backgrounds/sarkapjajorr3.webp
+      #categories : ["Saluran", "Longsoran"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+             # portfolio item loop
+    - name : CISEKEUT 
+      image : images/backgrounds/CISEKEUT.png
+      image_webp : images/backgrounds/CISEKEUT.webp
+      #categories : ["Saluran", "RIGID PAVEMENT"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            # portfolio item loop
+    - name : CISEKEUT 
+      image : images/backgrounds/CISEKEUT2.png
+      image_webp : images/backgrounds/CISEKEUT2.webp
+      #categories : ["Saluran", "RIGID PAVEMENT"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+ 
+ # portfolio item loop
+    - name : CISEKEUT 
+      image : images/backgrounds/CISEKEUT3.png
+      image_webp : images/backgrounds/CISEKEUT3.webp
+      #categories : ["Saluran", "RIGID PAVEMENT"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+      # portfolio item loop
+    - name : SS JAKASETIA 
+      image : images/backgrounds/SSJAKASETIA.png
+      image_webp : images/backgrounds/SSJAKASETIA.webp
+      #categories : ["Saluran", "RIGID PAVEMENT"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      # portfolio item loop
+    - name : SS JAKASETIA 
+      image : images/backgrounds/SSJAKASETIA2.png
+      image_webp : images/backgrounds/SSJAKASETIA2.webp
+      #categories : ["Saluran", "RIGID PAVEMENT"]
+      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"

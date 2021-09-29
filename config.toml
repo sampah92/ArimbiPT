@@ -59,14 +59,9 @@ name = 'Project'
 url = '#blog'
 weight = 3
 
-[[Languages.en.menu.main]]
-name = 'team'
-url = '#team'
-weight = 4
-
 
 [[Languages.en.menu.main]]
-name = 'portfolio'
+name = 'Gallery'
 url = '#portfolio'
 weight = 5
 
