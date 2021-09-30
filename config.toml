@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = 'https://arimbi-pt.vercel.app/'
+baseURL = 'https://www.arimbiputrijaya.com/'
 title = 'PT. Arimbi Putrijaya'
 theme = 'meghna-hugo-master'
 #themesDir = '../..'
